@@ -36,3 +36,11 @@
 - 스토리보드에서 navigation bar 영역에 BarButtonItem 추가하고 IBAction 연결
 
 <img width="291" alt="스크린샷 2021-02-10 오후 1 55 35" src="https://user-images.githubusercontent.com/75113784/107466677-cc865c00-6ba7-11eb-9dfb-9fd018d87473.png"><img width="291" alt="스크린샷 2021-02-10 오후 1 55 43" src="https://user-images.githubusercontent.com/75113784/107466683-d0b27980-6ba7-11eb-8fc7-db7b2ab8727c.png">
+
+## Step 7 - Second Scene
+- 두 번째 tab bar 화면에 UIImageView 추가
+- `다음` 버튼을 클릭할 때마다 asset 에서 랜덤하게 이미지를 가져오도록 구현
+- image는 비율을 유지하면서 크기에 맞게 표시
+- second scene의 autolayout 설정
+
+<img width="230" src="https://im2.ezgif.com/tmp/ezgif-2-1f085a2e680e.gif">
